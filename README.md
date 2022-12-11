@@ -5,13 +5,13 @@
 
 ## SKILL
 <ul>
-  <li><span><i class="fa-brands fa-html5"></i>HTML</span></li>
-  <li><span><i class="fa-brands fa-css3-alt">CSS</i></span></li>
-  <li><span><i class="fa-brands fa-js"></i>JavaScript</span></li>
-  <li><span><i class="fa-brands fa-python"></i>Python</span></li>
-  <li><span><i class="fa-brands fa-php"></i>PHP</span></li>
-  <li><span><i class="fa-solid fa-database">DataBase</i></span></li>
-  <li><span>c#</span><br><br>
+  <li><img src="https://img.shields.io/badge/HTML-white?style=flat&logo=HTML&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/CSS-orange?style=flat&logo=CSS&logoColor=white"/></span></li>
+  <li><img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/Python-skyblue?style=flat&logo=Python&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/PHP - blue?style=flat&logo=PHP&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/DataBase-yellowgreen?style=flat&logo=DataBase&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/Cshap-pink?style=flat&logo=Cshap&logoColor=white"/></li>
 </ul>
 
 ## SUPPORT PROGRAM
