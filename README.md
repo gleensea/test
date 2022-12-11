@@ -33,5 +33,5 @@
 
 ## SITE
 
-[github](https://gleensea.github.io/test/index.html)<br>
+[github](https://gleensea.github.io/test//)<br>
 [netlify](https://leeyt0402.netlify.app)
