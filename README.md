@@ -35,3 +35,10 @@
 
 [github](https://gleensea.github.io/test/)<br>
 [netlify](https://chipper-paprenjak-d860f5.netlify.app)
+
+## VIEW
+![11](https://user-images.githubusercontent.com/112832681/206959844-92fa5726-ea20-4a4c-a73f-13a6f4c07702.PNG)
+![22](https://user-images.githubusercontent.com/112832681/206959847-d16cf3e5-9928-481e-80cb-36d5fac2b236.PNG)
+![33](https://user-images.githubusercontent.com/112832681/206959849-d1e20b2a-f6c1-4527-88ba-a129a3ef3257.PNG)
+![44](https://user-images.githubusercontent.com/112832681/206959852-b5368c3e-ace1-4a94-85a7-3bfd795ba187.PNG)
+![55](https://user-images.githubusercontent.com/112832681/206959855-c49724a6-1a90-4088-bf48-b57d61c68f14.PNG)
