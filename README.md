@@ -34,4 +34,4 @@
 ## SITE
 
 [github](https://gleensea.github.io/test/)<br>
-[netlify](https://leeyt0402.netlify.app)
+[netlify](https://chipper-paprenjak-d860f5.netlify.app)
